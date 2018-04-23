@@ -1,0 +1,35 @@
+page-contact {
+
+}
+.search{
+    width:100%;
+    height: 40px;
+    background-color:#fedb47;
+    text-align: center;
+    
+}
+.inp{
+    width: 80%;
+    height: 30px;
+    margin-top: 5px;
+    border-radius: 20px;
+}
+.choose{
+    width: 100%;
+    height: 40px;
+    border: 1px solid silver;
+}
+.choose select{
+    width:32%;
+    height: 35px;
+    border: none;
+}
+.box{
+    border-top: 5px solid #f9f9f9;
+    border-bottom: 5px solid #f9f9f9;
+
+}
+.ion-ios-search:before {
+    content: "\f4a5";
+    color:#fedb47;
+}

@@ -1,0 +1,56 @@
+page-login {
+ 
+}
+.bg{
+background-image:url(../assets/imgs/bg.jpg);
+background-size: contain;
+height: 100%;
+padding: 20px 0;
+}
+
+.title{
+    height:44px;
+    text-align: center;
+}
+.title span{
+    color: white;
+    font-size: 20px;
+}
+#username{
+    width:50px;
+}
+.item-ios ion-thumbnail img {
+    width: 56px;
+    height: 56px;
+    margin-top: 70px;
+}
+img {
+    /* max-width: 100%; */
+    border: 0;
+}
+.logo1{
+    text-align: center;
+    height: 100px;
+    color: white;
+    font-size: 14px;
+    border: none;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.item-ios {
+    padding-left: 90px;
+    padding-right: 60px;
+    border-radius: 0;
+    position: relative;
+    font-size: 1.7rem;
+    color: #000;
+    background-color: rgba(1,23,3,0);
+    -webkit-transition: background-color 200ms linear;
+    transition: background-color 200ms linear;
+    margin-top: -50px;
+}
+.person,.pass{
+    margin-left: 60px;
+    margin-top: 5px;
+    display: inline;
+}
